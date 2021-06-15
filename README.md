@@ -1,1 +1,1 @@
-# Tic-Tac-Teo--game
+# Tic-Tac-Teo
